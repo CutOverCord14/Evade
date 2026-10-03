@@ -1,0 +1,6 @@
+#ifndef EVADE_ENGINE_LIBRARY_H
+#define EVADE_ENGINE_LIBRARY_H
+
+void hello();
+
+#endif // EVADE_ENGINE_LIBRARY_H

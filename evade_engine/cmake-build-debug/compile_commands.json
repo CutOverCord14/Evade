@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/MEGALODON LIME PEPE)/CLionProjects/evade_engine/cmake-build-debug",
+  "command": "C:\\Users\\MEGALO~1\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\C__~1.EXE -Devade_engine_EXPORTS -g -std=gnu++26 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\evade_engine.dir\\library.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\evade_engine.dir\\library.cpp.obj -c \"C:\\Users\\MEGALODON LIME PEPE)\\CLionProjects\\evade_engine\\library.cpp\"",
+  "file": "C:/Users/MEGALODON LIME PEPE)/CLionProjects/evade_engine/library.cpp",
+  "output": "C:/Users/MEGALODON LIME PEPE)/CLionProjects/evade_engine/cmake-build-debug/CMakeFiles/evade_engine.dir/library.cpp.obj"
+}
+]

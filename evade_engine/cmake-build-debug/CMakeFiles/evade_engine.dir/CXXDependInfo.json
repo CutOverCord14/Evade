@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/MEGALODON LIME PEPE)/CLionProjects/evade_engine/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/MEGALODON LIME PEPE)/CLionProjects/evade_engine",
+	"dir-top-bld" : "C:/Users/MEGALODON LIME PEPE)/CLionProjects/evade_engine/cmake-build-debug",
+	"dir-top-src" : "C:/Users/MEGALODON LIME PEPE)/CLionProjects/evade_engine",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/MEGALODON LIME PEPE)/CLionProjects/evade_engine/cmake-build-debug/CMakeFiles/evade_engine.dir",
+	"sources" : 
+	{
+		"CMakeFiles/evade_engine.dir/library.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/MEGALODON LIME PEPE)/CLionProjects/evade_engine/library.cpp"
+		}
+	}
+}
